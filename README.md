@@ -3,6 +3,9 @@
 ## Problem Statement
 This Sales Dashboard is designed to help the company analyze its overall sales performance and identify growth opportunities. By monitoring sales metrics such as total revenue, profit margin, top-performing products, and regional performance, the dashboard provides valuable insights for decision-making. It allows the company to track KPIs in real-time, understand customer purchasing behavior, and optimize strategies to boost sales and profitability.
 
+## Sales-Dashboard
+![Image](https://github.com/user-attachments/assets/877e8262-7443-49a3-b34d-653319394fa7)
+
 
 
 📂 ## Dataset Information

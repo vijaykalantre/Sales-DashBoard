@@ -88,6 +88,8 @@ Insight:
 While sales are high, profit margin is relatively low
 
 Indicates potential high costs, discounting, or low-margin products
+
+
 ![Image](https://github.com/user-attachments/assets/56a8f7db-e83e-4cde-be22-33d14e8e521b)
 
 

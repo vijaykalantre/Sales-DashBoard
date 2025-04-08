@@ -48,6 +48,8 @@ Low sales in January and February
 
 This trend helps plan marketing campaigns and inventory better.
 
+![Image](https://github.com/user-attachments/assets/3fdd360d-9566-4538-bb72-3034010c964c)
+
  
  ## Sub-Category Ranking Table
 Sub-Category	Segment	Orders	Revenue
